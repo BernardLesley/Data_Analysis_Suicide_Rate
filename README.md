@@ -3,9 +3,9 @@
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) whicg focuses on Suicide Rates from [The WHO Country Suicide Database](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). For detailed walkthrough, please view the source code in order from:
-1. clean_data.csv
-2. exploratory data analysis.csv
-3. machine learning.csv
+1. clean_data.ipynb
+2. exploratory data analysis.ipynb
+3. machine learning.ipynb
   
 ## Contributors
 
