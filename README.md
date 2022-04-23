@@ -19,9 +19,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Models Used
 
-1. KNN CLustering
-2. Random Forest
-3. Linear Regression
+1. Linear Regression
+2. KNN CLustering
+3. Random Forest
+4. Gradient Boosting Regression
+5. Voting Regression
 
 ## Conclusion
 
@@ -37,7 +39,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. Merging Two datasets that have imabalanced number of rows and find the common subset for both datasets
 2. KNN Clustering to predict numerical values
 3. 
-4. 
+4. Voting Regression to take the "average" of multiple prediction model
 
 
 ## References
