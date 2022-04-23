@@ -3,14 +3,15 @@
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) whicg focuses on Suicide Rates from [The WHO Country Suicide Database](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). For detailed walkthrough, please view the source code in order from:
-
-
+1. clean_data.csv
+2. exploratory data analysis.csv
+3. machine learning.csv
   
 ## Contributors
 
 - @syaz1affandi - Data Extraction, Data Cleaning
 - @adzikrafi - Exploratory Data Analysis, Data Visualization
-- @BernardLesley - Machine Learning (KNN, Linear Regression, Random Forest)
+- @BernardLesley - Machine Learning (KNN Regressor, Linear Regression, Random Forest regressor, etc)
 
 ## Problem Definition
 
@@ -19,11 +20,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Models Used
 
-1. Linear Regression
-2. KNN CLustering
-3. Random Forest
-4. Gradient Boosting Regression
-5. Voting Regression
+1. Multiple Linear Regression
+2. K Nearest Neighbors Regressor
+3. Random Forest regressor
+4. Gradient Boosting Regressor
+5. Voting Regressor
 
 ## Conclusion
 
@@ -32,15 +33,19 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. We feel that suicide consist of complex interplay between some variables, that individually does not amount to suicide, just like the swiss cheese model
 4. However, the accuracy of 0.75 is still not good enough, and there must be something else that explains suicide.
 5. We believe that this “something else” is the microscopic factor that varies from every individual. Our model only take into account macroscopic factor of a country, but fail to consider the uniqueness of each Individual.
-6. 
+6. It is important to do Scaling, for example using MinMaxScaler() and Hyperparameter Tuning, for example using GridSearchCV() for some regression models.
+7. Gradient Boosting Regressor is the best model to predict suicide rates, while Multiple Linear Regression is the least accurate in predicting suicide rates.
 
 
 ## What did we learn from this project?
 1. Merging Two datasets that have imabalanced number of rows and find the common subset for both datasets
-2. KNN Clustering to predict numerical values
-3. 
-4. Voting Regression to take the "average" of multiple prediction model
-
+2. Scaling the dataset to achieve better machine learning result, for example MinMaxScaler()
+3. Grid Search Cross-Validation to select the best hyperparameters for a machine learning mode
+4. Feature Importance and Permutation Importance to rank the “importance” of features in a model
+5. K Nearest Neighbors Regressor
+6. Random Forest Regressor
+7. Gradient Boosting Regressor
+8. Voting Regressor
 
 ## References
 
