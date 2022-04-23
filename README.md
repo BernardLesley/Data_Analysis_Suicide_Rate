@@ -40,8 +40,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## What did we learn from this project?
 1. Merging Two datasets that have imabalanced number of rows and find the common subset for both datasets
 2. Scaling the dataset to achieve better machine learning result, for example MinMaxScaler()
-3. Grid Search Cross-Validation to select the best hyperparameters for a machine learning mode
-4. Feature Importance and Permutation Importance to rank the “importance” of features in a model
+3. Grid Search Cross-Validation to select the best hyperparameters for a machine learning model
+4. Feature Importance and Permutation Importance to rank the “importance” of features in a regression model
 5. K Nearest Neighbors Regressor
 6. Random Forest Regressor
 7. Gradient Boosting Regressor
