@@ -29,12 +29,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 
 1. Each variable has low correlation with the suicide rates and thus, we cannot rely on a single variable to predict suicide rates
-2. However, when we include all the variables that we have, the accuracy increases dramatically. (0.7 accuracy is achieved)
+2. However, when we include all the variables that we have, the accuracy increases dramatically. 
 3. We feel that suicide consist of complex interplay between some variables, that individually does not amount to suicide, just like the swiss cheese model
-4. However, the accuracy of 0.75 is still not good enough, and there must be something else that explains suicide.
+4. However, there must be something else that explains suicide.
 5. We believe that this “something else” is the microscopic factor that varies from every individual. Our model only take into account macroscopic factor of a country, but fail to consider the uniqueness of each Individual.
 6. It is important to do Scaling, for example using MinMaxScaler() and Hyperparameter Tuning, for example using GridSearchCV() for some regression models.
-7. Gradient Boosting Regressor is the best model to predict suicide rates, while Multiple Linear Regression is the least accurate in predicting suicide rates.
+7. Gradient Boosting Regressor is the best model to predict suicide rates that can achieve 0.85 score, while Multiple Linear Regression is the least accurate in predicting suicide rates.
 
 
 ## What did we learn from this project?
