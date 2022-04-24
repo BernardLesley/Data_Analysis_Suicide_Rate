@@ -3,15 +3,16 @@
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) whicg focuses on Suicide Rates from [The WHO Country Suicide Database](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). For detailed walkthrough, please view the source code in order from:
-1. clean_data.ipynb
-2. exploratory data analysis.ipynb
-3. machine learning.ipynb
+1. [data_cleaning.ipynb](data_cleaning.ipynb)
+2. [exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb)
+3. [machine_learning.ipynb](machine_learning.ipynb)
   
+
 ## Contributors
 
 - @syaz1affandi - Data Extraction, Data Cleaning
 - @adzikrafi - Exploratory Data Analysis, Data Visualization
-- @BernardLesley - Machine Learning (KNN Regressor, Linear Regression, Random Forest regressor, etc)
+- @BernardLesley - Machine Learning (KNN Regressor, Linear Regression, Random Forest Regressor, etc)
 
 ## Problem Definition
 
@@ -50,15 +51,16 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## References
 
-1. https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights
-2. https://towardsdatascience.com/the-suicide-crisis-in-data-7025f8551ca8
-3. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
-4. https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
-5. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
-6. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
-7. https://vitalflux.com/gradient-boosting-regression-python-examples/
-8. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html
-9. https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_regressor.html#sphx-glr-auto-examples-ensemble-plot-voting-regressor-py
+1. https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
+2. https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights
+3. https://towardsdatascience.com/the-suicide-crisis-in-data-7025f8551ca8
+4. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+5. https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
+6. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+7. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+8. https://vitalflux.com/gradient-boosting-regression-python-examples/
+9. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html
+10. https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_regressor.html#sphx-glr-auto-examples-ensemble-plot-voting-regressor-py
 
 
 
