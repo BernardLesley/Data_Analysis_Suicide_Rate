@@ -50,7 +50,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## References
 
-1.https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights
-2.https://towardsdatascience.com/the-suicide-crisis-in-data-7025f8551ca8
+1. https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights
+2. https://towardsdatascience.com/the-suicide-crisis-in-data-7025f8551ca8
+
 
 
