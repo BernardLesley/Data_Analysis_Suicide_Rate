@@ -29,12 +29,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 
 1. Each variable has low correlation with the suicide rates and thus, we cannot rely on a single variable to predict suicide rates
-2. However, when we include all the variables that we have, the accuracy increases dramatically. 
+2. However, when we include all the variables that we have and fine-tuned our models, the accuracy increases dramatically. 
 3. We feel that suicide consist of complex interplay between some variables, that individually does not amount to suicide, just like the swiss cheese model
-4. However, there must be something else that explains suicide.
-5. We believe that this “something else” is the microscopic factor that varies from every individual. Our model only take into account macroscopic factor of a country, but fail to consider the uniqueness of each Individual.
-6. It is important to do Scaling, for example using MinMaxScaler() and Hyperparameter Tuning, for example using GridSearchCV() for some regression models.
-7. Gradient Boosting Regressor is the best model to predict suicide rates that can achieve 0.85 score, while Multiple Linear Regression is the least accurate in predicting suicide rates.
+4. Our best models can achieve an accuracy score of 0.85, which is a great model performance score in predicting suicide rates.
+5. However, there must be something else that explains suicide. Therefore, the models can still be improved given more data and variables to work with
+6. We believe that this “something else” is the microscopic factor that varies from every individual. Our model only take into account macroscopic factor of a country, but fail to consider the uniqueness of each Individual.
+7. It is important to do Scaling, for example using MinMaxScaler() and Hyperparameter Tuning, for example using GridSearchCV() for some regression models.
+8. Gradient Boosting Regressor is the best model to predict suicide rates that can achieve 0.85 score, while Multiple Linear Regression is the least accurate in predicting suicide rates.
 
 
 ## What did we learn from this project?
