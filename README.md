@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 Lab Group SC1 Project Group 5 (Introduction to
 ## Contributors
 
 - @syaz1affandi (Syazwan Affandi Bin Mohd Saleh U2122128C)- Data Extraction, Data Cleaning
-- @adzikrafi (Muhammad Rafi Adzikra Sujai )- Exploratory Data Analysis, Data Visualization
+- @adzikrafi (Muhammad Rafi Adzikra Sujai U2120731G)- Exploratory Data Analysis, Data Visualization
 - @BernardLesley (Bernard Lesley Efendy U2120902J)- Machine Learning (KNN Regressor, Linear Regression, Random Forest Regressor, etc)
 
 ## Problem Definition
