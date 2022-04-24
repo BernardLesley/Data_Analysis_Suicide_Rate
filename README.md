@@ -52,6 +52,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights
 2. https://towardsdatascience.com/the-suicide-crisis-in-data-7025f8551ca8
+3. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+4. https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
+5. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+6. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+7. https://vitalflux.com/gradient-boosting-regression-python-examples/
+8. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html
+9. https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_regressor.html#sphx-glr-auto-examples-ensemble-plot-voting-regressor-py
 
 
 
