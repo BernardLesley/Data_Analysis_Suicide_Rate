@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) whicg focuses on Suicide Rates from [The WHO Country Suicide Database](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 Lab Group SC1 Project Group 5 (Introduction to Data Science and Artificial Intelligence) whicg focuses on Suicide Rates from [The WHO Country Suicide Database](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016). For detailed walkthrough, please view the source code in order from:
 1. [data_cleaning.ipynb](data_cleaning.ipynb)
 2. [exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb)
 3. [machine_learning.ipynb](machine_learning.ipynb)
@@ -10,9 +10,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 
-- @syaz1affandi - Data Extraction, Data Cleaning
-- @adzikrafi - Exploratory Data Analysis, Data Visualization
-- @BernardLesley - Machine Learning (KNN Regressor, Linear Regression, Random Forest Regressor, etc)
+- @syaz1affandi (Syazwan Affandi Bin Mohd Saleh U2122128C)- Data Extraction, Data Cleaning
+- @adzikrafi (Muhammad Rafi Adzikra Sujai )- Exploratory Data Analysis, Data Visualization
+- @BernardLesley (Bernard Lesley Efendy U2120902J)- Machine Learning (KNN Regressor, Linear Regression, Random Forest Regressor, etc)
 
 ## Problem Definition
 
